@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Hand4Gaza">
+  <rect width="64" height="64" rx="14" fill="#1A8BB8"/>
+  <circle cx="32" cy="32" r="22" fill="none" stroke="#F5C400" stroke-width="2.5"/>
+  <path d="M28 18h8v8h-8zM26 26h12v16c0 4-3 8-6 8s-6-4-6-8z" fill="#FFF6E8" stroke="#F27121" stroke-width="2"/>
+  <circle cx="32" cy="30" r="2.4" fill="#F27121"/>
+  <circle cx="32" cy="38" r="2.4" fill="#4BB8E0"/>
+</svg>
