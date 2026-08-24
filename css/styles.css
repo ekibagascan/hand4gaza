@@ -907,9 +907,7 @@ p {
   }
 
   .hero-bg {
-    background-position: 40% 34%;
-    background-size: cover;
-    transform: scale(0.96);
+    background-position: 32% center;
   }
 
   .hero-orbit {
