@@ -274,13 +274,16 @@ p {
   align-items: end;
   overflow: hidden;
   color: var(--paper);
+  background: #4bb8e0;
 }
 
 .hero-bg {
   position: absolute;
   inset: 0;
   background:
-    url("../images/hero.jpg") center center / cover no-repeat;
+    url("../images/hero.jpg") center 34% / cover no-repeat;
+  transform: scale(0.96);
+  transform-origin: center 40%;
 }
 
 .hero-veil {
@@ -907,8 +910,9 @@ p {
   }
 
   .hero-bg {
-    background-position: 68% center;
+    background-position: 40% 34%;
     background-size: cover;
+    transform: scale(0.96);
   }
 
   .hero-orbit {
