@@ -1,0 +1,10 @@
+---
+description: Always commit and push Hand4Gaza changes to GitHub
+alwaysApply: true
+---
+
+# Always push
+
+After finishing site changes in this repo, commit and push to `origin` (`https://github.com/ekibagascan/hand4gaza.git`) on `main` without waiting to be asked.
+
+Do not ask "want me to push?" — just push when the work is ready to deploy.
